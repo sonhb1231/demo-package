@@ -3,7 +3,7 @@
 class Demo
 {
     
-    public function return()
+    public static function return()
     {
         return 'ok';
         //update
